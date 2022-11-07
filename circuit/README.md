@@ -4,3 +4,5 @@
 2. Polulu VNH5019 Motor Driver Carrier
 3. Custom coil
 4. Battery or DC power supply
+
+Connect according to schematics in circuit.png file.
